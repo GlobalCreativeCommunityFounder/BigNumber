@@ -15,7 +15,7 @@ setup(
     license='MIT',
     author='GlobalCreativeCommunityFounder',
     author_email='globalcreativecommunityfounder@gmail.com',
-    description='This package contains implementation of the tool "ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR".',
+    description='This package contains implementation of the library "BigNumber".',
     long_description=readme(),
     long_description_content_type="text/markdown",
     include_package_data=True,
@@ -26,7 +26,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR=ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR.orteil_idle_game_maker_code_generator:main",
+            "BigNumber=BigNumber.BigNumber_versus_mpf:main",
         ]
     }
 )

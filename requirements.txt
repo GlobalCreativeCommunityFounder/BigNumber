@@ -1,0 +1,2 @@
+setuptools~=56.0.0
+mpmath~=1.2.1
