@@ -100,5 +100,13 @@ the logarithm operation.
 
 # Running Tests
 
-The script "BigNumber_versus_mpf.py" is used to run tests of 
-the performance of BigNumber library against mpf library.
+The script "BigNumber_versus_mpf.py" 
+(https://github.com/GlobalCreativeCommunityFounder/BigNumber/blob/main/BigNumber/BigNumber_versus_mpf.py)
+is used to run tests of the performance of BigNumber
+library against mpf library.
+
+# Sample Test Results
+
+An example of test results for BigNumber versus mpf is in the 
+file "BigNumber_versus_mpf.txt"
+(https://github.com/GlobalCreativeCommunityFounder/BigNumber/blob/main/BigNumber/BigNumber_versus_mpf.txt).
